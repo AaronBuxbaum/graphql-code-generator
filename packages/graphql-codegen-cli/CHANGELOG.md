@@ -1,5 +1,12 @@
 # @graphql-codegen/cli
 
+## 2.16.2
+
+### Patch Changes
+
+- [#8715](https://github.com/dotansimha/graphql-code-generator/pull/8715) [`b1512a59a`](https://github.com/dotansimha/graphql-code-generator/commit/b1512a59a0195c1f67a7e87d6a450e98d115df39) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`cosmiconfig-typescript-loader@4.2.0` ↗︎](https://www.npmjs.com/package/cosmiconfig-typescript-loader/v/4.2.0) (from `4.1.1`, in `dependencies`)
+
 ## 2.16.1
 
 ### Patch Changes
